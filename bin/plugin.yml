@@ -1,0 +1,10 @@
+name: k3qKillManager
+main: k3qKillManager.Main
+version: 1.0
+author: Kamycz3q
+api-version: 1.19
+commands: 
+  toprank:
+    description: Top 9 Serwera
+    usage: /<command>
+    permission: k3qKillManager.toprank
